@@ -1,1 +1,2 @@
 hai this my first git
+my simple script
